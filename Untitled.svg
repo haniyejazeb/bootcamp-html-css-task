@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" href="#object-0"/>
+    </bx:export>
+  </defs>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M 11.484 15.442 C 11.728 15.198 11.728 14.802 11.484 14.558 L 7.551 10.625 L 19.375 10.625 C 19.72 10.625 20 10.345 20 10 C 20 9.655 19.72 9.375 19.375 9.375 L 7.551 9.375 L 11.484 5.442 C 11.728 5.198 11.728 4.802 11.484 4.558 C 11.24 4.314 10.844 4.314 10.6 4.558 L 5.6 9.558 C 5.356 9.802 5.356 10.198 5.6 10.442 L 10.6 15.442 C 10.844 15.686 11.24 15.686 11.484 15.442 Z" fill="#CC312D" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, 0.000001, 0)" id="object-0"/>
+</svg>
